@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Moinuddin\\GraphQLApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\model\\moinucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:model\\moinucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|d:\\moinuddin\\graphqlapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\graphql\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:graphql\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\model\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:model\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\userdetails\\userdetailsschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:userdetails\\userdetailsschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\userdetails\\userdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:userdetails\\userdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\graphql\\usermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:graphql\\usermutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\userdetails\\type\\userdetailstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:userdetails\\type\\userdetailstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|D:\\Moinuddin\\GraphQLApiDemo\\userdetails\\type\\userdetailsinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B6E366-70AD-4E18-B28F-D768C6A2BBFF}|GraphQLApiDemo.csproj|solutionrelative:userdetails\\type\\userdetailsinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMutation.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\UserMutation.cs",
+              "RelativeDocumentMoniker": "GraphQL\\UserMutation.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\UserMutation.cs",
+              "RelativeToolTip": "GraphQL\\UserMutation.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:55:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\UserQuery.cs",
+              "RelativeDocumentMoniker": "GraphQL\\UserQuery.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\UserQuery.cs",
+              "RelativeToolTip": "GraphQL\\UserQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:09:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\Model\\UserDetail.cs",
+              "RelativeDocumentMoniker": "Model\\UserDetail.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\Model\\UserDetail.cs",
+              "RelativeToolTip": "Model\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:50:32.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T06:43:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T06:56:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoinuContext.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\Model\\MoinuContext.cs",
+              "RelativeDocumentMoniker": "Model\\MoinuContext.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\Model\\MoinuContext.cs",
+              "RelativeToolTip": "Model\\MoinuContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:15:26.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDetailsType.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\Type\\UserDetailsType.cs",
+              "RelativeDocumentMoniker": "UserDetails\\Type\\UserDetailsType.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\Type\\UserDetailsType.cs",
+              "RelativeToolTip": "UserDetails\\Type\\UserDetailsType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:52:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDetailsInputType.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\Type\\UserDetailsInputType.cs",
+              "RelativeDocumentMoniker": "UserDetails\\Type\\UserDetailsInputType.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\Type\\UserDetailsInputType.cs",
+              "RelativeToolTip": "UserDetails\\Type\\UserDetailsInputType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:52:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:32:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetailsSchema.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\UserDetailsSchema.cs",
+              "RelativeDocumentMoniker": "UserDetails\\UserDetailsSchema.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\UserDetailsSchema.cs",
+              "RelativeToolTip": "UserDetails\\UserDetailsSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:12:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetailsQuery.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\UserDetailsQuery.cs",
+              "RelativeDocumentMoniker": "UserDetails\\UserDetailsQuery.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\UserDetails\\UserDetailsQuery.cs",
+              "RelativeToolTip": "UserDetails\\UserDetailsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:13:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppSchema.cs",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\AppSchema.cs",
+              "RelativeDocumentMoniker": "GraphQL\\AppSchema.cs",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\GraphQL\\AppSchema.cs",
+              "RelativeToolTip": "GraphQL\\AppSchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:06:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Moinuddin\\GraphQLApiDemo\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Moinuddin\\GraphQLApiDemo\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T06:30:57.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
